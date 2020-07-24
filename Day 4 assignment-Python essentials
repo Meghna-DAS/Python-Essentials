@@ -1,0 +1,25 @@
+question 1)finding the position of "my" in the string
+s"
+str.count("my")
+str="my bussiness is my bussiness none of my bussiness"
+str.count("my")
+3
+str.find("my")
+0
+str.rfind("my")
+37
+str.find("my",2)
+16
+
+question 2)
+
+using isupper and islower method
+str="my bussiness is my bussiness none of my bussines"
+str.isupper()
+False
+str.islower()
+True
+1
+str1="HELLO"
+str1.isupper()
+True
