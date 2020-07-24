@@ -1,4 +1,7 @@
-question 1)finding the position of "my" in the string
+Assignment 4
+Meghna Das
+
+Question 1)finding the position of "my" in the string
 s"
 str.count("my")
 str="my bussiness is my bussiness none of my bussiness"
@@ -11,7 +14,7 @@ str.rfind("my")
 str.find("my",2)
 16
 
-question 2)
+Question 2)
 
 using isupper and islower method
 str="my bussiness is my bussiness none of my bussines"
