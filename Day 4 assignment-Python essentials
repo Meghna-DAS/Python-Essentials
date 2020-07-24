@@ -4,7 +4,7 @@ Meghna Das
 Question 1)finding the position of "my" in the string
 s"
 str.count("my")
-str="my bussiness is my bussiness none of my bussiness"
+str="my business is my business none of my business"
 str.count("my")
 3
 str.find("my")
@@ -17,7 +17,7 @@ str.find("my",2)
 Question 2)
 
 using isupper and islower method
-str="my bussiness is my bussiness none of my bussines"
+str="my business is my business none of my business"
 str.isupper()
 False
 str.islower()
