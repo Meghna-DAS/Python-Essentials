@@ -3,9 +3,14 @@ Meghna Das
 
 Question 1) Find sum of n numbers with help of while loop
 
-Ans)n= int(input("Enter a value"))
-sum = n * (n+1) / 2
-print("Sum of first ", n, "natural numbers using formula is: ", sum )
+Ans)n = int(input("enter a number"))
+total_numbers = n
+sum=0
+while (n >= 0):
+    sum += n
+    n-=1
+print ("sum using while loop ", sum)
+
 
 Question 2) Take an integer and find it is prime or not
 
